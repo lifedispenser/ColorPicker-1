@@ -1,3 +1,5 @@
+See [the changes made here](https://github.com/weslly/ColorPicker/pull/54):
+
 ###Mac OSX
 ![Mac OSX](http://i.minus.com/i5KI6SBAfs7Qk.png "Mac OS X")
 
